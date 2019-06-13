@@ -7,3 +7,5 @@ Before coming to the workshop, you'll need to do two things. First, log onto the
 Instructions for performing this pre-work have been added to the current repository's wiki:
 
 https://github.com/rs-kellogg/computing-orientation/wiki
+
+Good luck, and feel free to reach out to Kellogg Research Support (rs@kellogg.northwestern.edu) if you have issues or questions.
