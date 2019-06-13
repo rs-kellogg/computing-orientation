@@ -6,6 +6,8 @@ Before coming to the workshop, you'll need to do two things. First, log onto the
 
 ### 1. Log on to KLC
 
-![KAP02 Remote Desktop Start Screen](https://github.com/rs-kellogg/docs-internal/blob/master/images/kap02/MRD-screenshot.png)
+KLC is a part of the Quest Hih Performance Computing Cluster, with dedicated resources for the Kellogg community. More information on KLC can be found [here](https://www.kellogg.northwestern.edu/rs/computing/kellogg-linux-cluster.aspx). We'll learn more about KLC later in the workshop, for now our goal is simply to log on and open up a terminal window. To do that, the preferred method is to use [FastX](https://www.kellogg.northwestern.edu/rs/computing/kellogg-linux-cluster/connecting.aspx#browser):
+
+![Connecting to FastX](https://github.com/rs-kellogg/computational-orientation/blob/master/images/FastX-screenshot-1.png)
 
 ### 2. Clone this git repository to your home directory on KLC
