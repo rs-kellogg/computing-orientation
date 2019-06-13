@@ -6,7 +6,7 @@ Before coming to the workshop, you'll need to do two things. First, log onto the
 
 ### 1. Log on to KLC
 
-KLC is a part of the [Quest Hih Performance Computing Cluster](https://www.it.northwestern.edu/research/user-services/quest/), with dedicated resources for the Kellogg community. More information on KLC can be found [here](https://www.kellogg.northwestern.edu/rs/computing/kellogg-linux-cluster.aspx). We'll learn more about KLC later in the workshop, for now our goal is simply to log on and open up a terminal window. There are various [ways](https://www.kellogg.northwestern.edu/rs/computing/kellogg-linux-cluster/connecting.aspx) to do this, here we will use the FastX Web Browser Client:
+KLC is a part of the [Quest](https://www.it.northwestern.edu/research/user-services/quest/) High Performance Computing Cluster, with dedicated resources for the Kellogg community. More information on KLC can be found [here](https://www.kellogg.northwestern.edu/rs/computing/kellogg-linux-cluster.aspx). We'll learn more about KLC later in the workshop, for now our goal is simply to log on and open up a terminal window. There are various [ways](https://www.kellogg.northwestern.edu/rs/computing/kellogg-linux-cluster/connecting.aspx) to do this, here we will use the FastX Web Browser Client:
 
 https://www.kellogg.northwestern.edu/rs/computing/kellogg-linux-cluster/connecting.aspx#browser
 
