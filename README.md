@@ -18,7 +18,9 @@ We also ask that you complete a few small tasks:
 
 4.) Now that you are on KLC, install a FreeTDS driver.  You can do this by entering the following at the command prompt:
  
-/kellogg/bin/freetds_config
+ ```console
+. /kellogg/bin/freetds_config
+```
 
 5.) Finally, request a Wharton Research Data Services (WRDS) account by following the instructions provided here: https://www.kellogg.northwestern.edu/rs/data.aspx?DB=wharton-rds 
 
