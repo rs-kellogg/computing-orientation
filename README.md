@@ -10,9 +10,9 @@ https://github.com/rs-kellogg/computing-orientation/wiki
 
 We also ask that you complete a few small tasks:
 
-1.) Read Gentzkow and Shapiro's Code and Data Guide (located under the pre-work folder)
+1.) Read Gentzkow and Shapiro's Code and Data Guide (located under the Pre-Work folder)
 
-2.) Login to KLC through a secure shell client (ssc), described here: https://www.kellogg.northwestern.edu/rs/computing/kellogg-linux-cluster/connecting.aspx
+2.) Login to KLC through any secure shell client (ssc), described here: https://www.kellogg.northwestern.edu/rs/computing/kellogg-linux-cluster/connecting.aspx
 
 3.) Once you've logged into KLC.  Open the ~/.bashrc file.  What does Line 8 say?
 
