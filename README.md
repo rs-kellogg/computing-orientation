@@ -14,14 +14,12 @@ We also ask that you complete a few small tasks:
 
 2.) Login to KLC through any secure shell client (ssc), described here: https://www.kellogg.northwestern.edu/rs/computing/kellogg-linux-cluster/connecting.aspx
 
-3.) Once you've logged into KLC.  Open the ~/.bashrc file.  What does Line 8 say?
-
-4.) Now that you are on KLC, install a FreeTDS driver.  You can do this by entering the following at the command prompt:
+3.) Now that you are on KLC, install a FreeTDS driver.  You can do this by entering the following at the command prompt:
  
  ```console
 . /kellogg/bin/freetds_config
 ```
 
-5.) Finally, request a Wharton Research Data Services (WRDS) account by following the instructions provided here: https://www.kellogg.northwestern.edu/rs/data.aspx?DB=wharton-rds 
+4.) Finally, request a Wharton Research Data Services (WRDS) account by following the instructions provided here: https://www.kellogg.northwestern.edu/rs/data.aspx?DB=wharton-rds 
 
 Good luck, and feel free to reach out to Kellogg Research Support (rs@kellogg.northwestern.edu) if you have issues or questions.
