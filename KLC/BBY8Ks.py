@@ -41,7 +41,7 @@ for index, item in enumerate(urlList):
     time.sleep(15)
 
     try:
-    	path = '/home/awc6034/computing-orientation/KLC/BBY/8K_no' + str(no_8K) + '.html'
+    	path = '/home/<YOUR_NETID>/computing-orientation/KLC/BBY/8K_no' + str(no_8K) + '.html'
     	with open(path, "wb") as f:
     		f.write(page.content)
     	print("At " + time.strftime("%X") + ", we successfully saved 8K number " + str(no_8K) + ".")
