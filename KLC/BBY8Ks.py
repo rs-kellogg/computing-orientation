@@ -1,7 +1,7 @@
 #########################
 ## Download Best Buy's ##
 ##    8K Statements    ##
-## Date: June 19, 2019 ##
+## Date: June 18, 2019 ##
 #########################
 
 # libraries used
@@ -41,7 +41,7 @@ for index, item in enumerate(urlList):
     time.sleep(15)
 
     try:
-    	path = '/kellogg/home/awc6034/computing-orientation/KLC/BBY/8K_no' + str(no_8K) + '.html'
+    	path = '/home/awc6034/computing-orientation/KLC/BBY/8K_no' + str(no_8K) + '.html'
     	with open(path, "wb") as f:
     		f.write(page.content)
     	print("At " + time.strftime("%X") + ", we successfully saved 8K number " + str(no_8K) + ".")
