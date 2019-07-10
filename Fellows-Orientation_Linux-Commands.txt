@@ -1,0 +1,32 @@
+﻿Research Fellows Computing Orientation
+KLC Linux Commands Cheat Sheet:
+
+
+Basics:
+•	<tab> key auto-completes program and file names
+•	<up> key goes through your command history
+•	<ctrl>-<c> interrupts the current command
+•	~ refers to your home directory
+•	man [program] - show documentation for a program
+
+File Commands:
+
+•	ls - list contents of directory
+•	ls -la - include hidden files and show details
+•	cd [dir] - change directory
+•	cd - change to your home directory
+•	pwd - print working directory
+•	less [file] - browse a file
+•	head [file] - print the beginning of a file
+•	tail [file] - print the end of a file
+•       mkdir [dir] - create a directory
+•       rm [file] - delete a file
+
+
+Module management:
+
+•	module avail - list available modules
+•	module load [module] - load a module
+•	module list - list loaded modules
+•	module rm [module] - unload a module
+
